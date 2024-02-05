@@ -1,0 +1,89 @@
+main{
+    background-color: #eee;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+    
+}
+figure{
+    background-color: white;
+    width:95%;
+    min-height: fit-content;
+    margin:auto;
+
+}
+#img-caption{
+    padding: 10px;
+    margin-bottom: 15px;
+ 
+}
+#first{
+    max-width: 600px;
+    text-align: center;
+}
+#tribute-info{ 
+    max-width: 550px;
+    line-height:1.5 ;
+    padding: 10px;
+    margin: auto;
+    text-align: start;
+    justify-content: center;
+    margin-left: 28em;
+    font-size:17px;
+}
+a{
+    color: #74638f;
+}
+.indian{
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    margin:aut0;
+    text-align: auto;
+    justify-content: auto;
+    font-size: 15px;
+    
+}
+    
+
+
+/* body{
+    height:100; 
+    width:100%;
+    text-align: center;
+}
+title{
+    text-align:center ;
+}
+p{
+    text-align: center;
+
+}
+section{
+
+}
+figure{
+    
+    color: aliceblue;
+    max-width: 100px; 
+    height: 40%;
+}
+img{
+    
+    display :block;
+    max-width: 100%;
+    height:auto;
+    margin:0 auto;
+}
+
+P{
+    font-style:italic; 
+}
+
+
+link{
+    color: blueviolet;
+} */
